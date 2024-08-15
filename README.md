@@ -15,6 +15,11 @@
 - Maven
 - MySQL
 
+## Authors
+
+@notkatsuu
+@shadowloker
+
 ## Features
 
 - User registration by driver's license
