@@ -17,8 +17,8 @@
 
 ## Authors
 
-@notkatsuu
-@shadowloker
+- [@notkatsuu](https://www.github.com/notkatsuu) - Pau Castellà Reig
+- [@ShadowLoker](https://www.github.com/ShadowLoker) - Lluc Koome Cebrià
 
 ## Features
 
